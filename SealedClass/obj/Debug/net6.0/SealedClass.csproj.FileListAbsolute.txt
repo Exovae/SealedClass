@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\SealedClass\SealedClass\bin\Debug\net6.0\SealedClass.exe
+C:\Users\ellio\source\repos\SealedClass\SealedClass\bin\Debug\net6.0\SealedClass.deps.json
+C:\Users\ellio\source\repos\SealedClass\SealedClass\bin\Debug\net6.0\SealedClass.runtimeconfig.json
+C:\Users\ellio\source\repos\SealedClass\SealedClass\bin\Debug\net6.0\SealedClass.dll
+C:\Users\ellio\source\repos\SealedClass\SealedClass\bin\Debug\net6.0\SealedClass.pdb
+C:\Users\ellio\source\repos\SealedClass\SealedClass\obj\Debug\net6.0\SealedClass.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\SealedClass\SealedClass\obj\Debug\net6.0\SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\SealedClass\SealedClass\obj\Debug\net6.0\SealedClass.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\SealedClass\SealedClass\obj\Debug\net6.0\SealedClass.AssemblyInfo.cs
+C:\Users\ellio\source\repos\SealedClass\SealedClass\obj\Debug\net6.0\SealedClass.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\SealedClass\SealedClass\obj\Debug\net6.0\SealedClass.dll
+C:\Users\ellio\source\repos\SealedClass\SealedClass\obj\Debug\net6.0\refint\SealedClass.dll
+C:\Users\ellio\source\repos\SealedClass\SealedClass\obj\Debug\net6.0\SealedClass.pdb
+C:\Users\ellio\source\repos\SealedClass\SealedClass\obj\Debug\net6.0\SealedClass.genruntimeconfig.cache
+C:\Users\ellio\source\repos\SealedClass\SealedClass\obj\Debug\net6.0\ref\SealedClass.dll
